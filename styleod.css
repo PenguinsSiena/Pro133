@@ -1,0 +1,39 @@
+
+.heading
+{
+margin-top: 20px;
+font-size: 50px;
+width: 100%;
+font-family: 'Julee', cursive;
+}
+
+.back
+{
+    margin-left: 30px;
+    font-family: 'Montserrat Alternates';
+    background-color:#758e87;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    margin-top: 40px;
+    border-radius: 10px;
+    border: 7px double black;
+    box-shadow: 10px 10px 10px rgb(69, 69, 69);
+}
+
+.stats{
+ background-color: #a7714f;
+ color: white;
+ font-family: 'Montserrat Alternates';
+ width: 67%;
+ border-radius: 10px;
+ margin-left: 250px;
+padding-left: 7px;
+}

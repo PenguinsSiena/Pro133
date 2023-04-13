@@ -1,0 +1,24 @@
+body{
+    background: url("back.png");
+    background-size: cover;
+    font-family: 'Julee', cursive;
+    padding-left: 100px;
+}
+h1{
+    font-size: 80px;
+    padding-top: 50px;
+}
+.btn {
+    font-family: 'Montserrat Alternates';
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color:#a0af98;
+    border-radius: 10px;
+    width: 20%;
+    margin-left: 150px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #758e87;
+}
